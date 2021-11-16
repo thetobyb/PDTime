@@ -30,8 +30,17 @@ The travel app project also involved the documenting of what a team of designers
 
 
 ## Week 4
+###### What occured in week 4 ######
+Week 4 involved a lot of Jest and testing development in JavaScript - the rabbit program was the main testing focus. The jest test cases were the main focuses on the personal development time for this week.
 
 ## Week 5
+###### What occured in week 5 ######
+Week 5 involved a lot of different focuses within personal development time. During the first couple days I focused on Git and the use of cloning and commiting to a respository. 
+
+The next couple days DOM was introduced for web-page manipulation - and a small project followed to create a personal HTML page with added CSS and JavaScript, this was the main focus of the PD time during this week, focusing on the development of the personal HTML page project. 
+
+
+
 
 ## Week 6
 
