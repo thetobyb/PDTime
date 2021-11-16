@@ -39,7 +39,7 @@ Week 5 involved a lot of different focuses within personal development time. Dur
 
 The next couple days DOM was introduced for web-page manipulation - and a small project followed to create a personal HTML page with added CSS and JavaScript, this was the main focus of the PD time during this week, focusing on the development of the personal HTML page project. 
 
-
+On the friday the cucumber framework was introduced, this was looked at a bit during Friday's PD time.
 
 
 ## Week 6
