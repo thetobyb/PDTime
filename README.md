@@ -42,7 +42,7 @@ The next couple days DOM was introduced for web-page manipulation - and a small 
 On the friday the cucumber framework was introduced, this was looked at a bit during Friday's PD time.
 
 
-                     :+1:
+
 ## Week 6
 
 
