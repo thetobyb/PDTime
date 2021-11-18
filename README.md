@@ -44,6 +44,7 @@ On the friday the cucumber framework was introduced, this was looked at a bit du
 
 
 ## Week 6
-
+###### What occured in week 6 ######
+Week 6 involved a deeper look into Cucumber and Selenium, where we have been testing our self-made portfolio websites done in the week prior. The personal development time that was done this week focused on improving my Selenium tests to properly tests certain features on the website, such as buttons changing certain colours for example.
 
 
