@@ -31,7 +31,7 @@ The travel app project also involved the documenting of what a team of designers
 
 ## Week 4
 ###### What occured in week 4 ######
-Week 4 involved a lot of Jest and testing development in JavaScript - the rabbit program was the main testing focus. The jest test cases were the main focuses on the personal development time for this week.
+Week 4 involved a lot of Jest and testing development in JavaScript - the rabbit program was the main testing focus. The Jest test cases and developing the rabbit code were the main focus on the personal development time for this week.
 
 ## Week 5
 ###### What occured in week 5 ######
