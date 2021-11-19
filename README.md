@@ -41,10 +41,9 @@ The next couple days DOM was introduced for web-page manipulation - and a small 
 
 On the friday the cucumber framework was introduced, this was looked at a bit during Friday's PD time.
 
-
-
 ## Week 6
 ###### What occured in week 6 ######
-Week 6 involved a deeper look into Cucumber and Selenium, where we have been testing our self-made portfolio websites done in the week prior. The personal development time that was done this week focused on improving my Selenium tests to properly tests certain features on the website, such as buttons changing certain colours for example.
+Week 6 involved a deeper look into Cucumber and Selenium, where we have been testing our self-made portfolio websites done in the week prior. The personal development time that was done this week focused on improving my Selenium tests to properly test certain features on the website, such as buttons changing certain colours for example.
 
+The Thursday and Friday of week 6 involed a duo project on live testing a website in Selenium with Cucumber, we chose to do it on IMDb.com. This task was quite challenging at the beginning as the websites were fairly complex. I worked through the peronsal development time during these days to get more tests completed and working. 
 
